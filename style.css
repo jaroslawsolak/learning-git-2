@@ -1,3 +1,10 @@
+.container {
+    margin: 0 auto;
+    color: #FFF;
+    max-width: 1200;
+    background-size: cover; 
+}
+
 .title {
   font-weight: bold;
 }
