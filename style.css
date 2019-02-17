@@ -1,3 +1,7 @@
+body {
+  margin: 0 auto;
+}
+
 .container {
     margin: 0 auto;
     color: black;
@@ -14,3 +18,8 @@
 .verse {
   margin: o auto;
 }
+
+h1 {
+  color: darkgrey;
+}
+
