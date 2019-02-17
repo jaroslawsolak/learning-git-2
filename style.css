@@ -1,8 +1,10 @@
 .container {
     margin: 0 auto;
-    color: #FFF;
-    max-width: 1200;
-    background-size: cover; 
+    color: black;
+    max-width: 435px;
+    background-size: cover;
+    background-color: lightblue;
+    padding: 20px; 
 }
 
 .title {
